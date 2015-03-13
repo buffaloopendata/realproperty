@@ -3,11 +3,6 @@ Real Property
 
 Buffalo Real Property Data
 
-My code looks like shit
-My code runs like shit
-Have a problem?
-Make a commit
-
 realpropsearch.rb
 
     Takes a csv file that has a street number and name on each line
